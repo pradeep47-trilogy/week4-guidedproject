@@ -1,4 +1,4 @@
-# Week 3.1: Tool Calling
+# Week 4.2
 
 ## Introduction
 Gain insights into how tool calling transforms interactions with LLMs, enabling structured outputs like dictionaries for enhanced API interaction, code execution, and JSON object creation.
